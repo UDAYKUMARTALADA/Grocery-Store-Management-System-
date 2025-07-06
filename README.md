@@ -14,21 +14,22 @@
 
 ## 🛠️ Features
 
- **Product Management**  
+✅ **Product Management**  
   - List all products with ID, name, unit, and price  
   - Add new products via modal form  
   - Update or delete existing products  
     ![](product.png)
- **Order Creation**  
+  
+🛒 **Order Creation**  
   - Dynamic "Add More" rows to select products, quantities, and view line totals  
   - Auto-calculated grand total based on selected items  
   - Customer name and order ID entry with form validation  
       ![](order.png)
- **Customer Orders Overview**  
+ 📋 **Customer Orders Overview**  
   - View all submitted orders with date, order number, customer, and total cost
-      ![](product1.png)
- **Admin Dashboard**  
+      ![](store.png)
+📜 **Admin Dashboard**  
   - Manage products, units of measure, orders, and order details via Django Admin
 
-    ![]()
+    ![](product1.png)
   
