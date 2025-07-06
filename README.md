@@ -1,7 +1,7 @@
 # 🛒 Grocery Store Management System
 
 **Django-based**, inventory-driven store management web app to handle product listings, manage orders, and view customer purchases with a responsive, Bootstrap-enhanced UI.
-    ![](data_insete.png)
+    ![](data_inserte.png)
 
 ## 🚀 Built With
 
