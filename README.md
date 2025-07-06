@@ -25,11 +25,13 @@
   - Auto-calculated grand total based on selected items  
   - Customer name and order ID entry with form validation  
       ![](order.png)
+
+      ![](product1.png)
  📋 **Customer Orders Overview**  
   - View all submitted orders with date, order number, customer, and total cost
       ![](store.png)
 📜 **Admin Dashboard**  
   - Manage products, units of measure, orders, and order details via Django Admin
 
-    ![](product1.png)
+    
   
