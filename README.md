@@ -1,3 +1,4 @@
+
 # 🛒 Grocery-Store-Management-System
 A Django web app to manage grocery products and take customer orders.
   ![](data_inserte.png)
